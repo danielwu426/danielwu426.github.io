@@ -55,6 +55,15 @@ h1 {
 	margin-bottom: 0.5em;
 }
 
+#post-image {
+	width: 100%;
+	position: relative;
+	padding: 0;
+	top: 0;
+	overflow: hidden;
+
+}
+
 #frame {
 	margin-left: auto;
 	margin-right: auto;
