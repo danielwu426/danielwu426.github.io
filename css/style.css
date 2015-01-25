@@ -55,6 +55,34 @@ h1 {
 	margin-bottom: 0.5em;
 }
 
+
+header {
+
+	width: 100%;
+	margin: 0 auto;
+	position: relative;
+
+}
+
+.header-inner {
+	text-align: center;
+	width: 100%;
+	height: 250px;
+	border-bottom: 1px solid #569A88;
+
+}
+
+.header-logo {
+	position: absolute;
+	top: 0;
+	display: inline-block;
+}
+
+#logo {
+
+	position: relative;
+}
+
 #post-image {
 	width: 100%;
 	position: relative;
