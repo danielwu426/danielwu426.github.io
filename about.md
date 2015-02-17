@@ -1,11 +1,12 @@
 ---
 layout: page
 title: About
-permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Dan. I'm an aspiring product manager interested in design, user experience, and emerging technologies. I'm currently helping shape the world of next-gen commerce as an Associate Product Manager at [Braintree](http://www.braintreepayments.com).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Prior to Braintree, I spent a few years at PricewaterhouseCoopers in a tech consulting role gaining software implementation, business analysis, and project management experience.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+In addition to what I've already told you I enjoy travel, attending concerts, Chicago summers, and University of Iowa athletics.
+
+Thanks for reading!
