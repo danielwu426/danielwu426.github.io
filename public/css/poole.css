@@ -204,6 +204,10 @@ img {
   display: block;
   margin: 0 0 1rem;
   border-radius: 5px;
+  width: 85%;
+  left: 0;
+  right: 0;
+  margin: auto;
 }
 
 /* Tables */
@@ -231,7 +235,7 @@ tbody tr:nth-child(odd) th {
  */
 
 .lead {
-  font-size: 1rem;
+  font-size: .9rem;
   font-weight: 300;
   text-align: center;
 }
