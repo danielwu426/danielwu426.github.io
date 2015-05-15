@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
 Hi, I'm Dan. I'm an aspiring product manager interested in design, user experience, and emerging technologies. I'm currently doing some pretty cool things for the e-commerce world as an Associate Product Manager at [Braintree](http://www.braintreepayments.com).
