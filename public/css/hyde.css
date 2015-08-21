@@ -93,6 +93,16 @@ html {
     text-align: left;
   }
 
+}
+
+/* MOBILE DEVICES */
+@media only screen and (max-device-width: 480px)  { 
+  .social-media {
+    overflow: auto;
+    list-style-type: none;
+    width: 60%;
+    margin: 0 auto;
+  }
 
 }
 
